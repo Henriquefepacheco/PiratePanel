@@ -1,0 +1,6 @@
+customtkinter
+Pillow
+qrcode
+beautifulsoup4
+python-dotenv
+requests

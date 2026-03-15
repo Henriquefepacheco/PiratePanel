@@ -1,0 +1,17 @@
+{
+    "name": "hubica-whatsapp-closer",
+    "version": "1.0.0",
+    "description": "WhatsApp Closer Bot for Hubica",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@google/generative-ai": "^0.22.0",
+        "@supabase/supabase-js": "^2.48.1",
+        "dotenv": "^16.4.7",
+        "qrcode-terminal": "^0.12.0",
+        "stripe": "^20.4.1",
+        "whatsapp-web.js": "^1.26.0"
+    }
+}
